@@ -1,0 +1,22 @@
+# Nextjs
+# What I learned so far from reading documentation
+
+1 - Create a project directory and initialize app via npx command
+
+2 - Run the nextjs development server
+
+3 - Brief revision on javascript, es6 and react
+
+4 - Props, state and render
+
+5 - Prefetching and routing
+
+6 - Metadata, static files and CSS styling
+
+7 - Using CSS modules to scope the styling of individual files
+
+8 - Using Global CSS files by importing ONLY from _app.js file e.g to use the style sheet throught the project i can import App from '_app' for any page
+
+9 - Prerendering and Data fetching
+    Two types pre-rendering; Static Generation and Server-side Rendering
+    Static Generation with data, and without data

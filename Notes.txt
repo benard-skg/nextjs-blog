@@ -20,3 +20,5 @@
 9 - Prerendering and Data fetching
     Two types pre-rendering; Static Generation and Server-side Rendering
     Static Generation with data, and without data
+
+10- 

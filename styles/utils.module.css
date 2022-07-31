@@ -47,6 +47,7 @@
 .listItem {
   margin: 0 0 1.25rem;
   text-align: center;
+  border: 1px solid white;
 }
 
 .lightText {
